@@ -1,0 +1,35 @@
+
+body
+{
+	background-color: #FFFDD0;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h2
+{
+	text-align: center;
+	color: #FFA500;
+	font-size: 50px;
+}
+
+.container
+{
+	margin-left: 10%;
+}
+img
+{
+	float: left;
+	width: 500px;
+	height: 500px;
+	padding: 0 30px 0 0;
+
+}
+
+.text
+{
+	text-align: justify;
+	font-family: Berlin Sans FB;
+	font-size: 30px;
+	margin-right: 20%;;
+}
